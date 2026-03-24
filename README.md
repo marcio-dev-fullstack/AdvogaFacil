@@ -66,11 +66,12 @@ AdvogaFacil/
 ---
 
 ## Desenvolvedor
+
 **Márcio Rodrigues de Oliveira** cda.marcio@gmail.com
 
 ---
 
-# Licença MIT
+## Licença MIT
 
 Copyright (c) 2026 Márcio Rodrigues de Oliveira
 
