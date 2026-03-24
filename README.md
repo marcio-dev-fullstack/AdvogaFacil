@@ -67,9 +67,11 @@ AdvogaFacil/
 
 ## **Desenvolvedor**
 
-**Márcio Rodrigues de Oliveira** - [cda.marcio@gmail.com](mailto:cda.marcio@gmail.com)
+**Márcio Rodrigues de Oliveira**
 
 Engenheiro de Software
+
+[cda.marcio@gmail.com](mailto:cda.marcio@gmail.com)
 
 ---
 
